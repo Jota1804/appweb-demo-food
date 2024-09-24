@@ -45,7 +45,7 @@ export default function Footer({ setShowLogin }) {
           {/* Logo and tagline */}
           <div className="col-span-1 sm:col-span-2 lg:col-span-1 mb-8 sm:mb-0">
             <img
-              src="src/assets/logo.png"
+              src="../src/assets/logo.png"
               alt="Logo"
               className="w-auto sm:h-24 mb-4"
             />
